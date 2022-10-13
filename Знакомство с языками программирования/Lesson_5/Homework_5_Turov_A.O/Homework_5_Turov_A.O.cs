@@ -81,6 +81,10 @@ void DiffMinMax(int [] array) // Задача 3: Задайте массив в�
     Console.WriteLine(str + "-> " + result);
 }
 
-NumberOfEven(RandomArray(100,999));
-SumOfOddNumbers(RandomArray());
-DiffMinMax(RandomArray());
+//NumberOfEven(RandomArray(100,999));
+//SumOfOddNumbers(RandomArray());
+//DiffMinMax(RandomArray());
+
+int [] arr = new int [] {5,4,5,5,6,7};
+ Array.ForEach(arr, x => Console.Write($"{x} "));
+ Array.ForEach(arr, x=>Console.WriteLine($"{x}") );
