@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0777a\\OneDrive\\Документы\\_GEEKBRAINS\\Знакомство с языками программирования\\Lesson_5\\Homework_5_Turov_A.O\\Homework_5_Turov_A.O.csproj",
-      "projectName": "Homework_5_Turov_A.O",
-      "projectPath": "C:\\Users\\0777a\\OneDrive\\Документы\\_GEEKBRAINS\\Знакомство с языками программирования\\Lesson_5\\Homework_5_Turov_A.O\\Homework_5_Turov_A.O.csproj",
+      "projectUniqueName": "C:\\Users\\0777a\\OneDrive\\Документы\\_GEEKBRAINS\\Знакомство с языками программирования\\Lesson_7\\Homework_7_Turov_A.O\\Homework_7_Turov_A.O.csproj",
+      "projectName": "Homework_7_Turov_A.O",
+      "projectPath": "C:\\Users\\0777a\\OneDrive\\Документы\\_GEEKBRAINS\\Знакомство с языками программирования\\Lesson_7\\Homework_7_Turov_A.O\\Homework_7_Turov_A.O.csproj",
       "packagesPath": "C:\\Users\\0777a\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0777a\\OneDrive\\Документы\\_GEEKBRAINS\\Знакомство с языками программирования\\Lesson_5\\Homework_5_Turov_A.O\\obj\\",
+      "outputPath": "C:\\Users\\0777a\\OneDrive\\Документы\\_GEEKBRAINS\\Знакомство с языками программирования\\Lesson_7\\Homework_7_Turov_A.O\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\0777a\\AppData\\Roaming\\NuGet\\NuGet.Config",
