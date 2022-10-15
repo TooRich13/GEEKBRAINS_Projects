@@ -1,4 +1,4 @@
-﻿double [,] RandomArray (int rows, int columns) // Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+﻿double [,] RandomArray (int rows, int columns, string _type="double") // Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
 {
     Random rnd = new Random();
     double [,] array = new double [rows,columns];
