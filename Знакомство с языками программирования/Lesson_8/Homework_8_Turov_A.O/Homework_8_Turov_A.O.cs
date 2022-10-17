@@ -73,8 +73,7 @@ void MinSumArray(int [,]array) // Задача 56: Задайте прямоуг
         minRowSum[i] = sum;
     }
     PrintArray(array);
-    Console.WriteLine();
-    Console.WriteLine($"Строка {Array.IndexOf(minRowSum, minRowSum.Min())} имеет наименьшую сумму {minRowSum.Min()}");
+    Console.WriteLine($"Строка {Array.IndexOf(minRowSum, minRowSum.Min())} (Счёт начинвется с 0) имеет наименьшую сумму {minRowSum.Min()}");
     Console.WriteLine("__________________________________\n");
 }
 
@@ -191,6 +190,7 @@ Console.WriteLine("Задание 3 :");
 int [,] matrix_1 = RandomArray(5,3);
 int [,] matrix_2 = RandomArray(3,4);
 PrintArray<int>(matrix_1);
+Console.WriteLine("\n X \n");
 PrintArray<int>(matrix_2);
 
 Console.WriteLine("Результат произведения :");
