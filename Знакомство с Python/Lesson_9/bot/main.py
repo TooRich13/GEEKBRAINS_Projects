@@ -19,6 +19,10 @@ app.add_handler(CommandHandler("dif", dif_command))
 app.add_handler(CommandHandler("mult", mult_command))
 app.add_handler(CommandHandler("div", div_command))
 
+app.add_handler(CommandHandler("ph_add", add_contact))
+app.add_handler(CommandHandler("ph_del",del_contact))
+app.add_handler(CommandHandler("ph_print", print_phbook))
+
 
 
 

@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS People (
+	user_id INTEGER PRIMARY KEY AUTOINCREMENT,
+	Name TEXT,
+	Surname	TEXT
+    );
+
+CREATE TABLE IF NOT EXISTS "Phones" (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	user_id INTEGER,
+	Phone_number TEXT,
+    FOREIGN KEY (user_id)  REFERENCES "People" (user_id)
+    )
