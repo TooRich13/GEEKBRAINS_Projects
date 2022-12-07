@@ -13,7 +13,7 @@ html {
 }
 
 .bg-image {
-    background-image: url("source/hd.png");
+    background-image: url("./source/hd.png");
     filter: blur(8px);
     height: 50%;
 
