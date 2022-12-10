@@ -1,0 +1,49 @@
+{
+    "id_user": 222332,
+    "name_user": "Kurt Cobain",
+    "cart_list": [
+        {
+            "product_name": "Комплект стол и стул",
+            "items": [
+                {
+                    "id_item": 22,
+                    "name_item": "стол",
+                    "option": "дерево",
+                    "price": 1000,
+                    "amount": 1
+                },
+                {
+                    "id_item": 23,
+                    "name_item": "стул",
+                    "option": "дерево",
+                    "price": 500,
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "product_name": "Набор отвёрток Xiaomi ",
+            "items": [
+                {
+                    "id_item": 123,
+                    "name_item": "Набор отвёрток Xiaomi ",
+                    "option": "63in",
+                    "price": 666,
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "product_name": "Яндекс Станция Мини",
+            "items": [
+                {
+                    "id_item": 523,
+                    "name_item": "Яндекс Станция Мини",
+                    "option": "red color",
+                    "price": 5000,
+                    "amount": 2
+                }
+            ]
+        }
+    ]
+}

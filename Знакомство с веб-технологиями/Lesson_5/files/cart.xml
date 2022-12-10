@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cart>
+    <id_user>222332</id_user>
+    <name_user>Kurt Cobain</name_user>
+    <cart_list>
+        <product_name>Комплект стол и стул</product_name>
+        <items>
+            <id_item>22</id_item>
+            <name_item>стол</name_item>
+            <option>дерево</option>
+            <price>1000</price>
+            <amount>1</amount>
+        </items>
+        <items>
+            <id_item>23</id_item>
+            <name_item>стул</name_item>
+            <option>дерево</option>
+            <price>500</price>
+            <amount>1</amount>
+        </items>
+    </cart_list>
+    <cart_list>
+        <product_name>Набор отвёрток Xiaomi </product_name>
+        <items>
+            <id_item>123</id_item>
+            <name_item>Набор отвёрток Xiaomi </name_item>
+            <option>63in</option>
+            <price>666</price>
+            <amount>1</amount>
+        </items>
+    </cart_list>
+    <cart_list>
+        <product_name>Яндекс Станция Мини</product_name>
+        <items>
+            <id_item>523</id_item>
+            <name_item>Яндекс Станция Мини</name_item>
+            <option>red color</option>
+            <price>5000</price>
+            <amount>2</amount>
+        </items>
+    </cart_list>
+</cart>
